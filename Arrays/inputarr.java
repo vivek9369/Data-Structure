@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+public class inputarr {
+    public static void main(String[] args) {
+        int marks[] = new int[100];
+        Scanner sc =new Scanner(System.in);
+        System.out.println("Enter Marks");
+        marks[0]= sc.nextInt();
+        marks[1]= sc.nextInt();
+        marks[2]= sc.nextInt();
+        System.out.println("Math:"+marks[0]);
+        System.out.println("Hindi:"+marks[1]);
+        System.out.println("Physics:"+marks[2]);
+
+        marks[2]=506;
+        System.out.println("Maths:"+marks[2]);
+
+
+    }
+}
