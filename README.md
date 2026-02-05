@@ -313,8 +313,9 @@ Revisit problems you've solved. Pattern recognition is key to mastery!
 
 <div align="center">
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/repo-name&type=Date)](https://star-history.com/#yourusername/repo-name&Date)
+## Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=Data Structure/Data Structure&type=timeline&legend=top-left)](https://www.star-history.com/#Data%20Structure/Data%20Structure&type=timeline&legend=top-left)
 </div>
 
 ---
