@@ -4,10 +4,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F75C7E&center=true&vCenter=true&width=600&lines=Master+Data+Structures!;Solve+LeetCode+Problems!;Java+%7C+DSA+%7C+Algorithms" alt="Typing SVG" />
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Vivekmaurya9369/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/repo-name?style=for-the-badge&color=yellow)](https://github.com/yourusername/repo-name/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/yourusername/repo-name?style=for-the-badge&color=blue)](https://github.com/yourusername/repo-name/network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/yourusername/repo-name?style=for-the-badge&color=yellow)](https://github.com/vivek9369/Data-Structure)
+[![GitHub Forks](https://img.shields.io/github/forks/yourusername/repo-name?style=for-the-badge&color=blue)](https://github.com/vivek9369/Data-Structure)
 
 </div>
 
@@ -323,10 +323,10 @@ Revisit problems you've solved. Pattern recognition is key to mastery!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-maurya-/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Vivekmaurya9369/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vivek9369)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekmaurya705404@gmail.com)
 
 </div>
 
