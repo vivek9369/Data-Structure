@@ -300,7 +300,7 @@ Write down your thought process. It helps in interviews and solidifies understan
 </td>
 <td width="33%">
 
-### 🔄 Review
+### 🔄 Review :
 Revisit problems you've solved. Pattern recognition is key to mastery!
 
 </td>
