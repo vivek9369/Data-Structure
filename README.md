@@ -15,7 +15,7 @@
 
 <div align="center">
   
-## 📊 Progress Tracker
+## 📊 Progress Tracker :-
 
 ![](https://geps.dev/progress/75?successColor=00ff00&dangerColor=ff0000)
 
