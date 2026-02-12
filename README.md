@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Data Structures in Java 🚀
+# 🚀 Data Structures in Java 🚀 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F75C7E&center=true&vCenter=true&width=600&lines=Master+Data+Structures!;Solve+LeetCode+Problems!;Java+%7C+DSA+%7C+Algorithms" alt="Typing SVG" />
 
